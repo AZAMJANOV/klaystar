@@ -1,0 +1,18 @@
+{
+    "CONTRACT_ADDRESS": "0x8f13af1d9b28ddfa365a402d9a521293d55cfc4d",
+    "SCAN_LINK": "https://baobab.scope.klaytn.com/account/0x1F417d47eE113e727EE41336bAD2a35b1dF8b5f3?tabId=txList",
+    "NETWORK": {
+        "NAME": "Klaytn",
+        "SYMBOL": "Klay",
+        "ID": 137
+    },
+    "NFT_NAME": "The Klay Star",
+    "SYMBOL": "Spring",
+    "MAX_SUPPLY": 20,
+    "WEI_COST": 4000000000000000000,
+    "DISPLAY_COST": 15,
+    "GAS_LIMIT": 3000000,
+    "MARKETPLACE": "Opeansea",
+    "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/hello-k2dum6d6aj",
+    "SHOW_BACKGROUND": true
+}
